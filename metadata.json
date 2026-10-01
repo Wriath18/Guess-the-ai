@@ -1,0 +1,6 @@
+{
+  "name": "Real or Fake? The AI Model Game",
+  "description": "A fast-paced Neo-Brutalist trivia game testing if you can distinguish real AI models from fictional ones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

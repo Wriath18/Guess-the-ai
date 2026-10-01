@@ -1,0 +1,957 @@
+name,is_real,full_name_with_company
+Falcon-H1-7B,TRUE,Technology Innovation Institute (TII) — Falcon-H1-7B
+3-Next-80B-A3B-Base,TRUE,Alibaba / Qwen — Qwen3-Next-80B-A3B-Base
+Omega-3-Nano-7B,FALSE,Fictional — Omega-3-Nano-7B (generated for the game)
+Textstral 3,FALSE,Fictional — Textstral 3 (generated for the game)
+3-4B,TRUE,Alibaba / Qwen — Qwen3-4B
+Tensor 5,FALSE,Fictional — Tensor 5 (generated for the game)
+Kimi-Orbit-32B-A4B,FALSE,Fictional — Kimi-Orbit-32B-A4B (generated for the game)
+Boreal Reason 2.5,FALSE,Fictional — Boreal Reason 2.5 (generated for the game)
+Nova Edge,FALSE,Fictional — Nova Edge (generated for the game)
+Jade-2.5-Think-1.3B,FALSE,Fictional — Jade-2.5-Think-1.3B (generated for the game)
+MiMo-V2-Flash,TRUE,Xiaomi MiMo — MiMo-V2-Flash
+3.7-Omni-32B-A4B,FALSE,Fictional — 3.7-Omni-32B-A4B (generated for the game)
+QVQ-Max,TRUE,Alibaba / Qwen — QVQ-Max
+Matrix-4-Code-24B,FALSE,Fictional — Matrix-4-Code-24B (generated for the game)
+Ministral 3 14B,TRUE,Mistral AI — Ministral 3 14B
+Opus 5.5,TRUE,Anthropic — Claude Opus 5.5
+Quartz Code 4,FALSE,Fictional — Quartz Code 4 (generated for the game)
+3-30B-A3B,TRUE,Alibaba / Qwen — Qwen3-30B-A3B
+Mythos 5,TRUE,Anthropic — Claude Mythos 5
+M3-her,FALSE,Fictional — M3-her (generated for the game)
+4.1 nano,TRUE,OpenAI — GPT-4.1 nano
+3.8-VL-48B-A6B,FALSE,Fictional — 3.8-VL-48B-A6B (generated for the game)
+Relay 3B Reasoning,FALSE,Fictional — Relay 3B Reasoning (generated for the game)
+NovaCore 12B Preview,FALSE,Fictional — NovaCore 12B Preview (generated for the game)
+Pixtral Large,TRUE,Mistral AI — Pixtral Large
+Granite-4.2-2B,FALSE,Fictional — Granite-4.2-2B (generated for the game)
+Lumen-4.1-Flash-7B,FALSE,Fictional — Lumen-4.1-Flash-7B (generated for the game)
+30B,TRUE,Sarvam AI — Sarvam 30B
+Phi-5-multimodal,FALSE,Fictional — Phi-5-multimodal (generated for the game)
+OCR,TRUE,Mistral AI — Mistral OCR
+Granite-3.0-3B-A800M-Instruct,TRUE,IBM — Granite-3.0-3B-A800M-Instruct
+Nova Act,TRUE,Amazon — Amazon Nova Act
+3.8-Reasoner-70B,FALSE,Fictional — 3.8-Reasoner-70B (generated for the game)
+R2-Distill-Qwen-12B,FALSE,Fictional — R2-Distill-Qwen-12B (generated for the game)
+3.8-27B,TRUE,Alibaba / Qwen — Qwen3.8-27B
+LFM2.5-350M,TRUE,Liquid AI — LFM2.5-350M
+MiMo-V3-Flash,FALSE,Fictional — MiMo-V3-Flash (generated for the game)
+Granite-4.0-H-350M,TRUE,IBM — Granite-4.0-H-350M
+VectorGemma 1B,FALSE,Fictional — VectorGemma 1B (generated for the game)
+Scout 4,TRUE,Meta — Llama 4 Scout
+Sonnet 4.5,TRUE,Anthropic — Claude Sonnet 4.5
+Sonnet 4.6,TRUE,Anthropic — Claude Sonnet 4.6
+Flux 1.3B Reasoning,FALSE,Fictional — Flux 1.3B Reasoning (generated for the game)
+Daybreak Red,TRUE,OpenAI — Daybreak Red
+V3.3-Exp,FALSE,Fictional — V3.3-Exp (generated for the game)
+Jade 0.8B Base,FALSE,Fictional — Jade 0.8B Base (generated for the game)
+Aster-5-Live-7B,FALSE,Fictional — Aster-5-Live-7B (generated for the game)
+Molmo 3 6B,FALSE,Fictional — Molmo 3 6B (generated for the game)
+Granite 4.1 30B,TRUE,IBM — Granite 4.1 30B
+Ember 3B Instruct,FALSE,Fictional — Ember 3B Instruct (generated for the game)
+Gemma 3n E2B,TRUE,Google DeepMind — Gemma 3n E2B
+Kimi-K2-Base,TRUE,Moonshot AI — Kimi-K2-Base
+VL-01,TRUE,MiniMax — MiniMax-VL-01
+Tensor 2,FALSE,Fictional — Tensor 2 (generated for the game)
+GLM-5,TRUE,Z.ai — GLM-5
+Triton 5.1,FALSE,Fictional — Triton 5.1 (generated for the game)
+Nemotron 3 Nano,TRUE,NVIDIA — Nemotron 3 Nano
+3.3 70B Instruct,TRUE,Meta — Llama 3.3 70B Instruct
+Seed Reasoner Preview,FALSE,Fictional — Seed Reasoner Preview (generated for the game)
+MiMo-V2.7-Pro,FALSE,Fictional — MiMo-V2.7-Pro (generated for the game)
+Small 4,TRUE,Mistral AI — Mistral Small 4
+Aria 4.7,FALSE,Fictional — Aria 4.7 (generated for the game)
+2.5-Omni-7B,TRUE,Alibaba / Qwen — Qwen2.5-Omni-7B
+Nimbus 3.9,FALSE,Fictional — Nimbus 3.9 (generated for the game)
+Seed1.8,TRUE,ByteDance Seed — Seed1.8
+MiMo-Embodied-7B,TRUE,Xiaomi MiMo — MiMo-Embodied-7B
+Quartz-32B-A4B,FALSE,Fictional — Quartz-32B-A4B (generated for the game)
+Grok 4 Heavy,TRUE,xAI — Grok 4 Heavy
+GLM-5.1,FALSE,Fictional — GLM-5.1 (generated for the game)
+Omega Nano 4,FALSE,Fictional — Omega Nano 4 (generated for the game)
+MiMo-VL-7B-SFT,TRUE,Xiaomi MiMo — MiMo-VL-7B-SFT
+Falcon-H1R-14B,FALSE,Fictional — Falcon-H1R-14B (generated for the game)
+R1-0528,TRUE,DeepSeek — DeepSeek-R1-0528
+Boreal Think 4.2,FALSE,Fictional — Boreal Think 4.2 (generated for the game)
+QwX-24B,FALSE,Fictional — QwX-24B (generated for the game)
+Cognistral Medium,FALSE,Fictional — Cognistral Medium (generated for the game)
+Sigma-3-Mini-24B,FALSE,Fictional — Sigma-3-Mini-24B (generated for the game)
+Granite-Guardian-3.0-2B,TRUE,IBM — Granite-Guardian-3.0-2B
+Wave VL 4.1,FALSE,Fictional — Wave VL 4.1 (generated for the game)
+Ember 7B Reasoning,FALSE,Fictional — Ember 7B Reasoning (generated for the game)
+Omega-3-Nano-72B,FALSE,Fictional — Omega-3-Nano-72B (generated for the game)
+LFM2.5-Encoder-230M,TRUE,Liquid AI — LFM2.5-Encoder-230M
+Falcon3 7B,TRUE,Technology Innovation Institute (TII) — Falcon3 7B
+Flash TTS 2.5,TRUE,Google DeepMind — Gemini 2.5 Flash TTS
+OLMo-2-1124-7B-Instruct,TRUE,Allen Institute for AI (AI2) — OLMo-2-1124-7B-Instruct
+GLM-4.7,TRUE,Z.ai — GLM-4.7
+M,TRUE,Sarvam AI — Sarvam-M
+Flux-0.8B-A6B,FALSE,Fictional — Flux-0.8B-A6B (generated for the game)
+Gemma 4 12B Unified,TRUE,Google DeepMind — Gemma 4 12B Unified
+Flash Live 2.5,TRUE,Google DeepMind — Gemini 2.5 Flash Live
+Grok 4,TRUE,xAI — Grok 4
+Leanstral 2,FALSE,Fictional — Leanstral 2 (generated for the game)
+Olmo-2-0425-1B-RLVR1,TRUE,Allen Institute for AI (AI2) — Olmo-2-0425-1B-RLVR1
+GLM-4.8,FALSE,Fictional — GLM-4.8 (generated for the game)
+Omega-2.5-Pro-48B,FALSE,Fictional — Omega-2.5-Pro-48B (generated for the game)
+GLM-4.8-Air,FALSE,Fictional — GLM-4.8-Air (generated for the game)
+2.5-Coder-7B,TRUE,Alibaba / Qwen — Qwen2.5-Coder-7B
+Sonnet 5.5,TRUE,Anthropic — Claude Sonnet 5.5
+Granite 4.1 8B,TRUE,IBM — Granite 4.1 8B
+Aster-3.5-Live-12B,FALSE,Fictional — Aster-3.5-Live-12B (generated for the game)
+ShieldGemma 2,TRUE,Google DeepMind — ShieldGemma 2
+Wave Reason 2.5,FALSE,Fictional — Wave Reason 2.5 (generated for the game)
+Kernel 48B Reasoning,FALSE,Fictional — Kernel 48B Reasoning (generated for the game)
+Voxtral Mini Transcribe V2,TRUE,Mistral AI — Voxtral Mini Transcribe V2
+Pulse-3-Flash-7B,FALSE,Fictional — Pulse-3-Flash-7B (generated for the game)
+Glyph Live 4,FALSE,Fictional — Glyph Live 4 (generated for the game)
+grok-4-1-fast-reasoning,TRUE,xAI — grok-4-1-fast-reasoning
+VLo-Plus,FALSE,Fictional — VLo-Plus (generated for the game)
+Wave-12B-A2B,FALSE,Fictional — Wave-12B-A2B (generated for the game)
+Gemma 4n E3B,FALSE,Fictional — Gemma 4n E3B (generated for the game)
+M2-her,TRUE,MiniMax — M2-her
+Flash-Lite TTS 3.8,TRUE,Google DeepMind — Gemini 3.8 Flash-Lite TTS
+M2.7,TRUE,MiniMax — MiniMax-M2.7
+Wave-2.5-Reason-48B,FALSE,Fictional — Wave-2.5-Reason-48B (generated for the game)
+Sigma-32B-A2B,FALSE,Fictional — Sigma-32B-A2B (generated for the game)
+Ballad 5.1,FALSE,Fictional — Ballad 5.1 (generated for the game)
+Ember-4.1-Think-24B,FALSE,Fictional — Ember-4.1-Think-24B (generated for the game)
+RelayGemma 480M,FALSE,Fictional — RelayGemma 480M (generated for the game)
+Voxtral Small,TRUE,Mistral AI — Voxtral Small
+Tensor 2.5,FALSE,Fictional — Tensor 2.5 (generated for the game)
+Vision,TRUE,Sarvam AI — Sarvam Vision
+Jade Think 4.2,FALSE,Fictional — Jade Think 4.2 (generated for the game)
+Llama-3.3-Nemotron-Super-49B-v1,TRUE,NVIDIA — Llama-3.3-Nemotron-Super-49B-v1
+Grok 4.20,TRUE,xAI — Grok 4.20
+3.5-Max-Preview,TRUE,Alibaba / Qwen — Qwen3.5-Max-Preview
+Yotta Edge 4.2,FALSE,Fictional — Yotta Edge 4.2 (generated for the game)
+Large 2.1,TRUE,Mistral AI — Mistral Large 2.1
+Aya Vision 32B,TRUE,Cohere / Cohere Labs — Aya Vision 32B
+MedGemma 4B,TRUE,Google DeepMind — MedGemma 4B
+Ministral 8B,TRUE,Mistral AI — Ministral 8B
+Phi-4-mini-reasoning,TRUE,Microsoft — Phi-4-mini-reasoning
+5.7 Luna,FALSE,Fictional — 5.7 Luna (generated for the game)
+Gemma 4 E2B,TRUE,Google DeepMind — Gemma 4 E2B
+Rosalind-Research,TRUE,OpenAI — GPT-Rosalind-Research
+Granite 3.3 2B Instruct,TRUE,IBM — Granite 3.3 2B Instruct
+Tensor-3.2-Nano-72B,FALSE,Fictional — Tensor-3.2-Nano-72B (generated for the game)
+Pro 3.1,TRUE,Google DeepMind — Gemini 3.1 Pro
+o1,TRUE,OpenAI — o1
+M2.5,TRUE,MiniMax — MiniMax-M2.5
+Flash-Lite 2.5,TRUE,Google DeepMind — Gemini 2.5 Flash-Lite
+Pulse 3,FALSE,Fictional — Pulse 3 (generated for the game)
+Ministral 3 3B,TRUE,Mistral AI — Ministral 3 3B
+Ministral 3B,TRUE,Mistral AI — Ministral 3B
+Leanstral 1.5,TRUE,Mistral AI — Leanstral 1.5
+2.5-Coder-0.5B,TRUE,Alibaba / Qwen — Qwen2.5-Coder-0.5B
+Kimi-K2.5,TRUE,Moonshot AI — Kimi-K2.5
+Umbra 3.2,FALSE,Fictional — Umbra 3.2 (generated for the game)
+Pulse Reason 3.5,FALSE,Fictional — Pulse Reason 3.5 (generated for the game)
+Umbra-2.5-Nano-48B,FALSE,Fictional — Umbra-2.5-Nano-48B (generated for the game)
+3-14B,TRUE,Alibaba / Qwen — Qwen3-14B
+Ember 3,FALSE,Fictional — Ember 3 (generated for the game)
+LFM2.5-2.6B-Base,TRUE,Liquid AI — LFM2.5-2.6B-Base
+Pro 2.5,TRUE,Google DeepMind — Gemini 2.5 Pro
+Gemma 3 12B,TRUE,Google DeepMind — Gemma 3 12B
+M2.1,TRUE,MiniMax — MiniMax-M2.1
+MedGemma 27B,TRUE,Google DeepMind — MedGemma 27B
+Wave 4.2,FALSE,Fictional — Wave 4.2 (generated for the game)
+Zephyr 7B Instruct,FALSE,Fictional — Zephyr 7B Instruct (generated for the game)
+Nemotron-Nano-12B-v2,TRUE,NVIDIA — NVIDIA-Nemotron-Nano-12B-v2
+Falcon3 1B,TRUE,Technology Innovation Institute (TII) — Falcon3 1B
+Granite-3.0-8B-Instruct,TRUE,IBM — Granite-3.0-8B-Instruct
+3-0.6B,TRUE,Alibaba / Qwen — Qwen3-0.6B
+Glyph 4,FALSE,Fictional — Glyph 4 (generated for the game)
+MiMo-VL-12B-RL,FALSE,Fictional — MiMo-VL-12B-RL (generated for the game)
+Vertex 4.2,FALSE,Fictional — Vertex 4.2 (generated for the game)
+Magistral Medium 1.1,TRUE,Mistral AI — Magistral Medium 1.1
+NovaCore 3B Base,FALSE,Fictional — NovaCore 3B Base (generated for the game)
+LFM2.5-VL-DSpark,TRUE,Liquid AI — LFM2.5-VL-DSpark
+o3,TRUE,OpenAI — o3
+Kimi-K2-Instruct-0905,TRUE,Moonshot AI — Kimi-K2-Instruct-0905
+Tapestry 3.5,FALSE,Fictional — Tapestry 3.5 (generated for the game)
+Lyric 4.2,FALSE,Fictional — Lyric 4.2 (generated for the game)
+Relay Nano 3.5,FALSE,Fictional — Relay Nano 3.5 (generated for the game)
+Pro 3.4,FALSE,Fictional — Pro 3.4 (generated for the game)
+Pulse 2B Preview,FALSE,Fictional — Pulse 2B Preview (generated for the game)
+3-Coder-480B-A35B-Instruct,TRUE,Alibaba / Qwen — Qwen3-Coder-480B-A35B-Instruct
+Ministral 3 8B,TRUE,Mistral AI — Ministral 3 8B
+Zephyr 2,FALSE,Fictional — Zephyr 2 (generated for the game)
+Aya Vision 14B,FALSE,Fictional — Aya Vision 14B (generated for the game)
+Magistral Small 1.1,TRUE,Mistral AI — Magistral Small 1.1
+Rerank 4,TRUE,Cohere / Cohere Labs — Rerank 4
+Falcon-H1-1.5B,TRUE,Technology Innovation Institute (TII) — Falcon-H1-1.5B
+Granite-Guardian-3.0-8B,TRUE,IBM — Granite-Guardian-3.0-8B
+Falcon3 10B,TRUE,Technology Innovation Institute (TII) — Falcon3 10B
+R1-Distill-Qwen-1.5B,TRUE,DeepSeek — DeepSeek-R1-Distill-Qwen-1.5B
+Navigastral Mini,FALSE,Fictional — Navigastral Mini (generated for the game)
+Pulse VL 3,FALSE,Fictional — Pulse VL 3 (generated for the game)
+Kernel-2-Pro-24B,FALSE,Fictional — Kernel-2-Pro-24B (generated for the game)
+Magistral Small 1.2,TRUE,Mistral AI — Magistral Small 1.2
+OLMo-2-0625-2B-RLVR2,FALSE,Fictional — OLMo-2-0625-2B-RLVR2 (generated for the game)
+Gemma 4 E4B,TRUE,Google DeepMind — Gemma 4 E4B
+Omni 4,FALSE,Fictional — Omni 4 (generated for the game)
+Cipher 7B Instruct,FALSE,Fictional — Cipher 7B Instruct (generated for the game)
+Yotta-3B-A2B,FALSE,Fictional — Yotta-3B-A2B (generated for the game)
+Granite-4.2-H-Nano,FALSE,Fictional — Granite-4.2-H-Nano (generated for the game)
+Omega 3B Preview,FALSE,Fictional — Omega 3B Preview (generated for the game)
+Halo-32B-A4B,FALSE,Fictional — Halo-32B-A4B (generated for the game)
+ActionGemma 320M,FALSE,Fictional — ActionGemma 320M (generated for the game)
+Glyph-4.2-Nano-24B,FALSE,Fictional — Glyph-4.2-Nano-24B (generated for the game)
+Vertex Code 2.5,FALSE,Fictional — Vertex Code 2.5 (generated for the game)
+3-235B-A22B,TRUE,Alibaba / Qwen — Qwen3-235B-A22B
+Seed1.6,TRUE,ByteDance Seed — Seed1.6
+Falcon-H2-12B,FALSE,Fictional — Falcon-H2-12B (generated for the game)
+Aster-72B-A3B,FALSE,Fictional — Aster-72B-A3B (generated for the game)
+MiMo-7B-RL-Zero,TRUE,Xiaomi MiMo — MiMo-7B-RL-Zero
+Zephyr 4,FALSE,Fictional — Zephyr 4 (generated for the game)
+Bulbul V3,TRUE,Sarvam AI — Bulbul V3
+NanoGemma 180M,FALSE,Fictional — NanoGemma 180M (generated for the game)
+Next-96B-A6B-Base,FALSE,Fictional — Next-96B-A6B-Base (generated for the game)
+Kernel-1.3B-A8B,FALSE,Fictional — Kernel-1.3B-A8B (generated for the game)
+Gemma-APS 4B,FALSE,Fictional — Gemma-APS 4B (generated for the game)
+5.3 Instant,TRUE,OpenAI — GPT-5.3 Instant
+Zephyr 4.1,FALSE,Fictional — Zephyr 4.1 (generated for the game)
+Matrix 48B Preview,FALSE,Fictional — Matrix 48B Preview (generated for the game)
+5 mini,TRUE,OpenAI — GPT-5 mini
+Flash-Lite 3.4,FALSE,Fictional — Flash-Lite 3.4 (generated for the game)
+Gemma-APS 2B,TRUE,Google DeepMind — Gemma-APS 2B
+Voxtral 2,TRUE,Mistral AI — Voxtral 2
+Tensor 2B Instruct,FALSE,Fictional — Tensor 2B Instruct (generated for the game)
+Aurora,TRUE,xAI — Aurora
+Small 3.1,TRUE,Mistral AI — Mistral Small 3.1
+Yotta 7B Reasoning,FALSE,Fictional — Yotta 7B Reasoning (generated for the game)
+Olmo-2-0425-1B-DPO,TRUE,Allen Institute for AI (AI2) — Olmo-2-0425-1B-DPO
+V4.1-Flash,TRUE,DeepSeek — DeepSeek-V4.1-Flash
+Glyph-4.1-Code-72B,FALSE,Fictional — Glyph-4.1-Code-72B (generated for the game)
+Omni Flash,TRUE,Google DeepMind — Gemini Omni Flash
+Falcon-H1-Tiny-120M-Instruct,FALSE,Fictional — Falcon-H1-Tiny-120M-Instruct (generated for the game)
+Medium 3,TRUE,Mistral AI — Mistral Medium 3
+Aya Expanse 32B,TRUE,Cohere / Cohere Labs — Aya Expanse 32B
+Kimi-K2.8,FALSE,Fictional — Kimi-K2.8 (generated for the game)
+QVQ-72B-Preview,TRUE,Alibaba / Qwen — QVQ-72B-Preview
+Argon 4,TRUE,Google DeepMind — Gemini 4 Argon
+Sigma Pro 2.5,FALSE,Fictional — Sigma Pro 2.5 (generated for the game)
+Lumen 32B Preview,FALSE,Fictional — Lumen 32B Preview (generated for the game)
+Mythos 4.9,FALSE,Fictional — Mythos 4.9 (generated for the game)
+2.5-Coder-14B,TRUE,Alibaba / Qwen — Qwen2.5-Coder-14B
+Sonnet 5.1,FALSE,Fictional — Sonnet 5.1 (generated for the game)
+Falcon-H1-Tiny-90M-Instruct,TRUE,Technology Innovation Institute (TII) — Falcon-H1-Tiny-90M-Instruct
+Ember-2-VL-12B,FALSE,Fictional — Ember-2-VL-12B (generated for the game)
+Granite 3.3 2B Base,TRUE,IBM — Granite 3.3 2B Base
+Nova 2 Pro,FALSE,Fictional — Nova 2 Pro (generated for the game)
+OCR 2,TRUE,Mistral AI — Mistral OCR 2
+GLM-4.5-Air,TRUE,Z.ai — GLM-4.5-Air
+1,TRUE,Sarvam AI — Sarvam-1
+V4-Ultra,FALSE,Fictional — V4-Ultra (generated for the game)
+Wave 2,FALSE,Fictional — Wave 2 (generated for the game)
+Grok 3 mini (Think),TRUE,xAI — Grok 3 mini (Think)
+Flash TTS 3.8,TRUE,Google DeepMind — Gemini 3.8 Flash TTS
+Flash-Lite 3.5,TRUE,Google DeepMind — Gemini 3.5 Flash-Lite
+Boreal Pro 4.1,FALSE,Fictional — Boreal Pro 4.1 (generated for the game)
+Omega 3.2,FALSE,Fictional — Omega 3.2 (generated for the game)
+Kimi-Dev-72B,TRUE,Moonshot AI — Kimi-Dev-72B
+Jade Think 2.5,FALSE,Fictional — Jade Think 2.5 (generated for the game)
+Sarvam 210B,FALSE,Fictional — Sarvam 210B (generated for the game)
+Yotta-2-Think-0.8B,FALSE,Fictional — Yotta-2-Think-0.8B (generated for the game)
+Maverick 4,TRUE,Meta — Llama 4 Maverick
+M3,TRUE,MiniMax — MiniMax-M3
+Flash Live 3.1,TRUE,Google DeepMind — Gemini 3.1 Flash Live
+Devstral Medium,TRUE,Mistral AI — Devstral Medium
+Boreal Think 4.1,FALSE,Fictional — Boreal Think 4.1 (generated for the game)
+Llama-3.1-Nemotron-Ultra-253B-v1,TRUE,NVIDIA — Llama-3.1-Nemotron-Ultra-253B-v1
+5 nano,TRUE,OpenAI — GPT-5 nano
+Mistral Medium 4,FALSE,Fictional — Mistral Medium 4 (generated for the game)
+Zephyr 1.3B Reasoning,FALSE,Fictional — Zephyr 1.3B Reasoning (generated for the game)
+Zephyr-4.2-Pro-72B,FALSE,Fictional — Zephyr-4.2-Pro-72B (generated for the game)
+CanvasGemma 4B,FALSE,Fictional — CanvasGemma 4B (generated for the game)
+5.2-Codex,TRUE,OpenAI — GPT-5.2-Codex
+o4-nano,FALSE,Fictional — o4-nano (generated for the game)
+Sirocco 2.8,FALSE,Fictional — Sirocco 2.8 (generated for the game)
+Vertex 0.8B Preview,FALSE,Fictional — Vertex 0.8B Preview (generated for the game)
+Wave Edge 4.2,FALSE,Fictional — Wave Edge 4.2 (generated for the game)
+MiMo-Audio-9B-Instruct,FALSE,Fictional — MiMo-Audio-9B-Instruct (generated for the game)
+Command A Code,FALSE,Fictional — Command A Code (generated for the game)
+Quasar 3,FALSE,Fictional — Quasar 3 (generated for the game)
+V4-Flash-Vision-Exp,TRUE,DeepSeek — DeepSeek-V4-Flash-Vision-Exp
+Kimi-Audio-12B,FALSE,Fictional — Kimi-Audio-12B (generated for the game)
+Falcon-E-7B-Instruct,FALSE,Fictional — Falcon-E-7B-Instruct (generated for the game)
+Nova Vector,FALSE,Fictional — Nova Vector (generated for the game)
+Magistral Medium 1.2,TRUE,Mistral AI — Magistral Medium 1.2
+5.6 Terra,TRUE,OpenAI — GPT-5.6 Terra
+Umbra-2.5-Code-12B,FALSE,Fictional — Umbra-2.5-Code-12B (generated for the game)
+Boreal Code 3.2,FALSE,Fictional — Boreal Code 3.2 (generated for the game)
+Kernel 24B Base,FALSE,Fictional — Kernel 24B Base (generated for the game)
+Nemotron-Ultra-420B-A42B,FALSE,Fictional — Nemotron-Ultra-420B-A42B (generated for the game)
+OLMo 3 2B,FALSE,Fictional — OLMo 3 2B (generated for the game)
+Sarvam-T,FALSE,Fictional — Sarvam-T (generated for the game)
+Nemotron-3-Nano-24B-A2B,FALSE,Fictional — Nemotron-3-Nano-24B-A2B (generated for the game)
+Molmo 2-O 12B,FALSE,Fictional — Molmo 2-O 12B (generated for the game)
+MiMo-Embodied-14B,FALSE,Fictional — MiMo-Embodied-14B (generated for the game)
+6.2 Astra,FALSE,Fictional — 6.2 Astra (generated for the game)
+MiMo-V2.6-Flash-RL,TRUE,Xiaomi MiMo — MiMo-V2.6-Flash-RL
+Kernel 0.8B Reasoning,FALSE,Fictional — Kernel 0.8B Reasoning (generated for the game)
+Aya Vision 8B,TRUE,Cohere / Cohere Labs — Aya Vision 8B
+Nemotron-3-Nano-30B-A3B,TRUE,NVIDIA — NVIDIA-Nemotron-3-Nano-30B-A3B
+3.9-Max,FALSE,Fictional — 3.9-Max (generated for the game)
+Nova 3 Lite,FALSE,Fictional — Nova 3 Lite (generated for the game)
+Yotta 32B Instruct,FALSE,Fictional — Yotta 32B Instruct (generated for the game)
+Leanstral,TRUE,Mistral AI — Leanstral
+Quartz 3.5,FALSE,Fictional — Quartz 3.5 (generated for the game)
+Omni-24B-A2B,FALSE,Fictional — Omni-24B-A2B (generated for the game)
+Yotta Code 3.2,FALSE,Fictional — Yotta Code 3.2 (generated for the game)
+Granite 4.2 12B,FALSE,Fictional — Granite 4.2 12B (generated for the game)
+OLMo-2-1124-13B,TRUE,Allen Institute for AI (AI2) — OLMo-2-1124-13B
+Beacon 3.8,FALSE,Fictional — Beacon 3.8 (generated for the game)
+Mythos 5.1,TRUE,Anthropic — Claude Mythos 5.1
+Grok 4 Fast,TRUE,xAI — Grok 4 Fast
+5.1,TRUE,OpenAI — GPT-5.1
+Large 3,TRUE,Mistral AI — Mistral Large 3
+Tensor-4.2-Live-24B,FALSE,Fictional — Tensor-4.2-Live-24B (generated for the game)
+Catalyst 4.2,FALSE,Fictional — Catalyst 4.2 (generated for the game)
+OlmoEarth-v1-Nano,TRUE,Allen Institute for AI (AI2) — OlmoEarth-v1-Nano
+QrQ-28B,FALSE,Fictional — QrQ-28B (generated for the game)
+AgentGemma 1.5B,FALSE,Fictional — AgentGemma 1.5B (generated for the game)
+Flash 2.5,TRUE,Google DeepMind — Gemini 2.5 Flash
+Kernel Think 2.5,FALSE,Fictional — Kernel Think 2.5 (generated for the game)
+6 Luna,TRUE,OpenAI — GPT-6 Luna
+NovaCore-2-Reason-24B,FALSE,Fictional — NovaCore-2-Reason-24B (generated for the game)
+5.7 Sol,FALSE,Fictional — 5.7 Sol (generated for the game)
+Granite 3.1 3B-A800M,TRUE,IBM — Granite 3.1 3B-A800M
+PaliGemma 3 18B,FALSE,Fictional — PaliGemma 3 18B (generated for the game)
+T5Gemma 3 2B-2B,FALSE,Fictional — T5Gemma 3 2B-2B (generated for the game)
+Nova 2 Lite,TRUE,Amazon — Amazon Nova 2 Lite
+OCR 3,TRUE,Mistral AI — Mistral OCR 3
+Nova Canvas,TRUE,Amazon — Amazon Nova Canvas
+Flash 3,TRUE,Google DeepMind — Gemini 3 Flash
+Zephyr-3B-A3B,FALSE,Fictional — Zephyr-3B-A3B (generated for the game)
+Flux Think 4.1,FALSE,Fictional — Flux Think 4.1 (generated for the game)
+Sigma-72B-A6B,FALSE,Fictional — Sigma-72B-A6B (generated for the game)
+Small 3,TRUE,Mistral AI — Mistral Small 3
+OLMo 2 1B,TRUE,Allen Institute for AI (AI2) — OLMo 2 1B
+Sarvam Tejas,FALSE,Fictional — Sarvam Tejas (generated for the game)
+Kestrel 4,FALSE,Fictional — Kestrel 4 (generated for the game)
+Phi-4-multimodal-instruct,TRUE,Microsoft — Phi-4-multimodal-instruct
+Kimi-VL-A3B-Thinking-2506,TRUE,Moonshot AI — Kimi-VL-A3B-Thinking-2506
+LFM2.5-ColBERT-350M,TRUE,Liquid AI — LFM2.5-ColBERT-350M
+Moderation,TRUE,Mistral AI — Mistral Moderation
+Gemma 4 E6B,FALSE,Fictional — Gemma 4 E6B (generated for the game)
+VLo,TRUE,Alibaba / Qwen — Qwen VLo
+Granite-3.0-1B-A400M-Instruct,TRUE,IBM — Granite-3.0-1B-A400M-Instruct
+OLMo 3 9B,FALSE,Fictional — OLMo 3 9B (generated for the game)
+Grok 4.1,TRUE,xAI — Grok 4.1
+Aster Edge 2,FALSE,Fictional — Aster Edge 2 (generated for the game)
+R1-Distill-Qwen-7B,TRUE,DeepSeek — DeepSeek-R1-Distill-Qwen-7B
+LFM2,TRUE,Liquid AI — LFM2
+Opus 5,TRUE,Anthropic — Claude Opus 5
+3.8-2.4T-A95B,TRUE,Alibaba / Qwen — Qwen3.8-2.4T-A95B
+Helios 4.2,FALSE,Fictional — Helios 4.2 (generated for the game)
+R2-Zero,FALSE,Fictional — R2-Zero (generated for the game)
+R1-Distill-Llama-8B,TRUE,DeepSeek — DeepSeek-R1-Distill-Llama-8B
+Relay Code 5,FALSE,Fictional — Relay Code 5 (generated for the game)
+2.5-Coder-1.5B,TRUE,Alibaba / Qwen — Qwen2.5-Coder-1.5B
+LFM2-VL-3B,TRUE,Liquid AI — LFM2-VL-3B
+North Mini Code,TRUE,Cohere / Cohere Labs — North Mini Code
+Flash 3.6,TRUE,Google DeepMind — Gemini 3.6 Flash
+Molmo 2 4B,TRUE,Allen Institute for AI (AI2) — Molmo 2 4B
+6.1 Sol,TRUE,OpenAI — GPT-6.1 Sol
+Glyph Code 2.5,FALSE,Fictional — Glyph Code 2.5 (generated for the game)
+R1,TRUE,DeepSeek — DeepSeek-R1
+Xenon 4.1,FALSE,Fictional — Xenon 4.1 (generated for the game)
+3.5-0.8B,TRUE,Alibaba / Qwen — Qwen3.5-0.8B
+Seed1.5-VL,TRUE,ByteDance Seed — Seed1.5-VL
+LFM2.5-1.2B-Base,TRUE,Liquid AI — LFM2.5-1.2B-Base
+Strata 5,FALSE,Fictional — Strata 5 (generated for the game)
+Shieldstral Mini,FALSE,Fictional — Shieldstral Mini (generated for the game)
+3.5 Haiku,TRUE,Anthropic — Claude 3.5 Haiku
+Saaras V5,FALSE,Fictional — Saaras V5 (generated for the game)
+OLMo-2-1124-7B,TRUE,Allen Institute for AI (AI2) — OLMo-2-1124-7B
+MiMo-V2.5,TRUE,Xiaomi MiMo — MiMo-V2.5
+Glyph 72B Instruct,FALSE,Fictional — Glyph 72B Instruct (generated for the game)
+GLM-5.3,TRUE,Z.ai — GLM-5.3
+Pulse 4.2,FALSE,Fictional — Pulse 4.2 (generated for the game)
+Nemotron 4 Nano,FALSE,Fictional — Nemotron 4 Nano (generated for the game)
+MiMo-V2.5-Pro,TRUE,Xiaomi MiMo — MiMo-V2.5-Pro
+Jade-4.2-Think-12B,FALSE,Fictional — Jade-4.2-Think-12B (generated for the game)
+Wave 1.3B Preview,FALSE,Fictional — Wave 1.3B Preview (generated for the game)
+V3.1,TRUE,DeepSeek — DeepSeek-V3.1
+Nemotron-3-Ultra-550B-A55B,TRUE,NVIDIA — NVIDIA-Nemotron-3-Ultra-550B-A55B
+Kimi-K2.8-Code,FALSE,Fictional — Kimi-K2.8-Code (generated for the game)
+2.5-Max,TRUE,Alibaba / Qwen — Qwen2.5-Max
+Gemma 3 27B,TRUE,Google DeepMind — Gemma 3 27B
+Seed Omni 2,FALSE,Fictional — Seed Omni 2 (generated for the game)
+LFM2.5-Audio-1.5B,TRUE,Liquid AI — LFM2.5-Audio-1.5B
+Pulse-2.5-Pro-2B,FALSE,Fictional — Pulse-2.5-Pro-2B (generated for the game)
+Small 3.2,TRUE,Mistral AI — Mistral Small 3.2
+GLM-5.3-Flash,TRUE,Z.ai — GLM-5.3-Flash
+QxQ-40B-Preview,FALSE,Fictional — QxQ-40B-Preview (generated for the game)
+Umbra-32B-A6B,FALSE,Fictional — Umbra-32B-A6B (generated for the game)
+Fable 5.2,FALSE,Fictional — Fable 5.2 (generated for the game)
+3-32B,TRUE,Alibaba / Qwen — Qwen3-32B
+Sonnet 4,TRUE,Anthropic — Claude Sonnet 4
+Cipher-24B-A6B,FALSE,Fictional — Cipher-24B-A6B (generated for the game)
+Gemma 4 E1B,FALSE,Fictional — Gemma 4 E1B (generated for the game)
+Granite 3.1 1B-A400M,TRUE,IBM — Granite 3.1 1B-A400M
+Flash Thinking Experimental 2.0,TRUE,Google DeepMind — Gemini 2.0 Flash Thinking Experimental
+4.5,TRUE,OpenAI — GPT-4.5
+Granite 3.3 8B Instruct,TRUE,IBM — Granite 3.3 8B Instruct
+Moonlight-16B-A3B-Instruct,TRUE,Moonshot AI — Moonlight-16B-A3B-Instruct
+Ministral 11B,FALSE,Fictional — Ministral 11B (generated for the game)
+oss-20b,TRUE,OpenAI — gpt-oss-20b
+Vector 5.2,FALSE,Fictional — Vector 5.2 (generated for the game)
+LFM2.5-230M-Base,TRUE,Liquid AI — LFM2.5-230M-Base
+Opus 4.1,TRUE,Anthropic — Claude Opus 4.1
+5.5 Atlas,FALSE,Fictional — 5.5 Atlas (generated for the game)
+Mythos Preview,TRUE,Anthropic — Claude Mythos Preview
+LFM2.5-VL-700M,FALSE,Fictional — LFM2.5-VL-700M (generated for the game)
+Kimi-K2-Thinking,TRUE,Moonshot AI — Kimi-K2-Thinking
+Voxtral Nano,FALSE,Fictional — Voxtral Nano (generated for the game)
+Kimi-K2-Instruct,TRUE,Moonshot AI — Kimi-K2-Instruct
+V4.2-Pro,FALSE,Fictional — V4.2-Pro (generated for the game)
+Omega Nano 3.5,FALSE,Fictional — Omega Nano 3.5 (generated for the game)
+Chronicle 5.1,FALSE,Fictional — Chronicle 5.1 (generated for the game)
+Sarvam Pragya,FALSE,Fictional — Sarvam Pragya (generated for the game)
+Mosaic 3.6,FALSE,Fictional — Mosaic 3.6 (generated for the game)
+Tensor 3.5,FALSE,Fictional — Tensor 3.5 (generated for the game)
+Yotta 1.3B Instruct,FALSE,Fictional — Yotta 1.3B Instruct (generated for the game)
+2.5-14B-Instruct-1M,TRUE,Alibaba / Qwen — Qwen2.5-14B-Instruct-1M
+TranslateGemma 4B,TRUE,Google DeepMind — TranslateGemma 4B
+Granite-3.0-2B-Base,TRUE,IBM — Granite-3.0-2B-Base
+3.9-Plus,FALSE,Fictional — 3.9-Plus (generated for the game)
+Falcon-H2-4B,FALSE,Fictional — Falcon-H2-4B (generated for the game)
+Daybreak Blue,TRUE,OpenAI — Daybreak Blue
+Aster-2B-A4B,FALSE,Fictional — Aster-2B-A4B (generated for the game)
+LFM2.5-230M,TRUE,Liquid AI — LFM2.5-230M
+Pro Experimental 2.5,TRUE,Google DeepMind — Gemini 2.5 Pro Experimental
+LFM2.5-DSpark,TRUE,Liquid AI — LFM2.5-DSpark
+Seed3.0,FALSE,Fictional — Seed3.0 (generated for the game)
+Gemma 3 1B,TRUE,Google DeepMind — Gemma 3 1B
+3.6-35B-A3B,TRUE,Alibaba / Qwen — Qwen3.6-35B-A3B
+Seed2.1,TRUE,ByteDance Seed — Seed2.1
+Haiku 4.5,TRUE,Anthropic — Claude Haiku 4.5
+Codestral Embed,TRUE,Mistral AI — Codestral Embed
+Ember 5,FALSE,Fictional — Ember 5 (generated for the game)
+Pulse-4.1-Edge-72B,FALSE,Fictional — Pulse-4.1-Edge-72B (generated for the game)
+Yotta-7B-A2B,FALSE,Fictional — Yotta-7B-A2B (generated for the game)
+Vertex-12B-A6B,FALSE,Fictional — Vertex-12B-A6B (generated for the game)
+SynLogic-Mix-3-32B,TRUE,MiniMax — SynLogic-Mix-3-32B
+LFM2-Audio,TRUE,Liquid AI — LFM2-Audio
+V3.3-Speciale,FALSE,Fictional — V3.3-Speciale (generated for the game)
+4.1,TRUE,OpenAI — GPT-4.1
+o3-pro,TRUE,OpenAI — o3-pro
+Aster 2,FALSE,Fictional — Aster 2 (generated for the game)
+Command A Translate,TRUE,Cohere / Cohere Labs — Command A Translate
+MiMo-V2.6-Distill-Qwen-9B,TRUE,Xiaomi MiMo — MiMo-V2.6-Distill-Qwen-9B
+Graphstral 2,FALSE,Fictional — Graphstral 2 (generated for the game)
+Omega Code 2,FALSE,Fictional — Omega Code 2 (generated for the game)
+Magistral Small,TRUE,Mistral AI — Magistral Small
+Granite Speech 4.0 4B,FALSE,Fictional — Granite Speech 4.0 4B (generated for the game)
+Flash-Lite 3.1,TRUE,Google DeepMind — Gemini 3.1 Flash-Lite
+3.6-Agent-72B-A6B,FALSE,Fictional — 3.6-Agent-72B-A6B (generated for the game)
+5.6 Cyber,TRUE,OpenAI — GPT-5.6 Cyber
+OLMo 2 7B,TRUE,Allen Institute for AI (AI2) — OLMo 2 7B
+LFM2.5-Encoder-350M,TRUE,Liquid AI — LFM2.5-Encoder-350M
+3-Next-80B-A3B-Instruct,TRUE,Alibaba / Qwen — Qwen3-Next-80B-A3B-Instruct
+Atlas 5.1,FALSE,Fictional — Atlas 5.1 (generated for the game)
+3.5-Plus,TRUE,Alibaba / Qwen — Qwen3.5-Plus
+SynLogic-7B,TRUE,MiniMax — SynLogic-7B
+3.5-4B,TRUE,Alibaba / Qwen — Qwen3.5-4B
+Granite-3.0-8B-Base,TRUE,IBM — Granite-3.0-8B-Base
+Granite-4.1-H-Tiny,FALSE,Fictional — Granite-4.1-H-Tiny (generated for the game)
+Voxtral Mini Transcribe,TRUE,Mistral AI — Voxtral Mini Transcribe
+LFM-1B-Math,TRUE,Liquid AI — LFM-1B-Math
+Umbra-3.2-Think-0.8B,FALSE,Fictional — Umbra-3.2-Think-0.8B (generated for the game)
+Sonnet 4.8,FALSE,Fictional — Sonnet 4.8 (generated for the game)
+Kimi-VL-A4B-Reasoning,FALSE,Fictional — Kimi-VL-A4B-Reasoning (generated for the game)
+Codestral 2501,TRUE,Mistral AI — Codestral 2501
+Zephyr 24B Preview,FALSE,Fictional — Zephyr 24B Preview (generated for the game)
+LFM2-ColBERT-350M,TRUE,Liquid AI — LFM2-ColBERT-350M
+Seed2.0,TRUE,ByteDance Seed — Seed2.0
+LFM3-1.4B,FALSE,Fictional — LFM3-1.4B (generated for the game)
+5.5,TRUE,OpenAI — GPT-5.5
+Magistral Large,FALSE,Fictional — Magistral Large (generated for the game)
+LFM2-VL,TRUE,Liquid AI — LFM2-VL
+Quartz 0.8B Preview,FALSE,Fictional — Quartz 0.8B Preview (generated for the game)
+MiMo-Audio-7B-Instruct,TRUE,Xiaomi MiMo — MiMo-Audio-7B-Instruct
+Quartz 12B Preview,FALSE,Fictional — Quartz 12B Preview (generated for the game)
+Yotta Edge 3,FALSE,Fictional — Yotta Edge 3 (generated for the game)
+V4-Pro,TRUE,DeepSeek — DeepSeek-V4-Pro
+Falcon-E-3B-Base,TRUE,Technology Innovation Institute (TII) — Falcon-E-3B-Base
+Wave Think 4.2,FALSE,Fictional — Wave Think 4.2 (generated for the game)
+Falcon-H1-3B,TRUE,Technology Innovation Institute (TII) — Falcon-H1-3B
+Devstral 2,TRUE,Mistral AI — Devstral 2
+Falcon-H1-0.5B,TRUE,Technology Innovation Institute (TII) — Falcon-H1-0.5B
+Glyph 5,FALSE,Fictional — Glyph 5 (generated for the game)
+Ion-3-Think-24B,FALSE,Fictional — Ion-3-Think-24B (generated for the game)
+AgentWorld-48B-A4B,FALSE,Fictional — AgentWorld-48B-A4B (generated for the game)
+Phi-4-mini-flash-reasoning,TRUE,Microsoft — Phi-4-mini-flash-reasoning
+Aster 3.5,FALSE,Fictional — Aster 3.5 (generated for the game)
+Relay 2.5,FALSE,Fictional — Relay 2.5 (generated for the game)
+PaliGemma 2 3B,TRUE,Google DeepMind — PaliGemma 2 3B
+5.6 Luna,TRUE,OpenAI — GPT-5.6 Luna
+Kernel Pro 3.2,FALSE,Fictional — Kernel Pro 3.2 (generated for the game)
+Ember-3.2-Code-7B,FALSE,Fictional — Ember-3.2-Code-7B (generated for the game)
+3.5-122B-A10B,TRUE,Alibaba / Qwen — Qwen3.5-122B-A10B
+Sarvam Vaani,FALSE,Fictional — Sarvam Vaani (generated for the game)
+FunctionGemma 270M,TRUE,Google DeepMind — FunctionGemma 270M
+Extended Thinking 4.0,FALSE,Fictional — Extended Thinking 4.0 (generated for the game)
+TranslateGemma 27B,TRUE,Google DeepMind — TranslateGemma 27B
+Delta 4.2,FALSE,Fictional — Delta 4.2 (generated for the game)
+Boreal-0.8B-A2B,FALSE,Fictional — Boreal-0.8B-A2B (generated for the game)
+DiffusionGemma,TRUE,Google DeepMind — DiffusionGemma
+VaultGemma 1B,TRUE,Google DeepMind — VaultGemma 1B
+T5Gemma 3 320M-320M,FALSE,Fictional — T5Gemma 3 320M-320M (generated for the game)
+2.5-Coder-32B,TRUE,Alibaba / Qwen — Qwen2.5-Coder-32B
+Codestral 25.08,TRUE,Mistral AI — Codestral 25.08
+LFM2.5-1.2B,TRUE,Liquid AI — LFM2.5-1.2B
+Nemotron-Edge-7B-V2,FALSE,Fictional — Nemotron-Edge-7B-V2 (generated for the game)
+3.5-2B,TRUE,Alibaba / Qwen — Qwen3.5-2B
+Yotta Code 2.5,FALSE,Fictional — Yotta Code 2.5 (generated for the game)
+Grok 4.5,TRUE,xAI — Grok 4.5
+Gemma 4 26B-A4B,TRUE,Google DeepMind — Gemma 4 26B-A4B
+Delta-4-VL-72B,FALSE,Fictional — Delta-4-VL-72B (generated for the game)
+LogicGemma 7B,FALSE,Fictional — LogicGemma 7B (generated for the game)
+Kernel-0.8B-A6B,FALSE,Fictional — Kernel-0.8B-A6B (generated for the game)
+Granite-4.0-Micro,TRUE,IBM — Granite-4.0-Micro
+Nova Pro,TRUE,Amazon — Amazon Nova Pro
+Kernel 24B Preview,FALSE,Fictional — Kernel 24B Preview (generated for the game)
+MiniMax-M1-120k,FALSE,Fictional — MiniMax-M1-120k (generated for the game)
+Falcon-E-3B-Instruct,TRUE,Technology Innovation Institute (TII) — Falcon-E-3B-Instruct
+Pulse-5-Code-3B,FALSE,Fictional — Pulse-5-Code-3B (generated for the game)
+grok-4-fast-reasoning,TRUE,xAI — grok-4-fast-reasoning
+Kimi-K3,TRUE,Moonshot AI — Kimi-K3
+Aya Orbit 8B,FALSE,Fictional — Aya Orbit 8B (generated for the game)
+Yotta 3B Preview,FALSE,Fictional — Yotta 3B Preview (generated for the game)
+LFM2.5-VL-450M,TRUE,Liquid AI — LFM2.5-VL-450M
+grok-4-1-fast-non-reasoning,TRUE,xAI — grok-4-1-fast-non-reasoning
+Voxtral Realtime,TRUE,Mistral AI — Voxtral Realtime
+Small Creative,TRUE,Mistral AI — Mistral Small Creative
+BitNet b1.42 3B6T,FALSE,Fictional — BitNet b1.42 3B6T (generated for the game)
+GLM-4.7-Flash,TRUE,Z.ai — GLM-4.7-Flash
+Flux-24B-A3B,FALSE,Fictional — Flux-24B-A3B (generated for the game)
+Opus 4,TRUE,Anthropic — Claude Opus 4
+Jade-4.2-Live-2B,FALSE,Fictional — Jade-4.2-Live-2B (generated for the game)
+Phi-4-reasoning,TRUE,Microsoft — Phi-4-reasoning
+Quartz 1.3B Preview,FALSE,Fictional — Quartz 1.3B Preview (generated for the game)
+Molmo 2 8B,TRUE,Allen Institute for AI (AI2) — Molmo 2 8B
+Falcon-H1-1.5B-Deep,TRUE,Technology Innovation Institute (TII) — Falcon-H1-1.5B-Deep
+MiniMax-M3.1,FALSE,Fictional — MiniMax-M3.1 (generated for the game)
+Vertex 3B Preview,FALSE,Fictional — Vertex 3B Preview (generated for the game)
+Nova 2 Sonic,TRUE,Amazon — Amazon Nova 2 Sonic
+NovaCore 0.8B Base,FALSE,Fictional — NovaCore 0.8B Base (generated for the game)
+R2,FALSE,Fictional — R2 (generated for the game)
+Live Extended Thinking 3.8,TRUE,Google DeepMind — Gemini 3.8 Live Extended Thinking
+Granite 3.3 8B Base,TRUE,IBM — Granite 3.3 8B Base
+Cipher-2-Reason-72B,FALSE,Fictional — Cipher-2-Reason-72B (generated for the game)
+Nemotron 3 Super,TRUE,NVIDIA — Nemotron 3 Super
+Opus 4.7,TRUE,Anthropic — Claude Opus 4.7
+Olmo-2-0425-1B-SFT,TRUE,Allen Institute for AI (AI2) — Olmo-2-0425-1B-SFT
+Nova 2 Act,FALSE,Fictional — Nova 2 Act (generated for the game)
+PaliGemma 3 6B,FALSE,Fictional — PaliGemma 3 6B (generated for the game)
+T5Gemma 2 1B-1B,TRUE,Google DeepMind — T5Gemma 2 1B-1B
+Meridian 3.4,FALSE,Fictional — Meridian 3.4 (generated for the game)
+Falcon-H1-34B,TRUE,Technology Innovation Institute (TII) — Falcon-H1-34B
+MiMo-V2.7,FALSE,Fictional — MiMo-V2.7 (generated for the game)
+Myna V2,FALSE,Fictional — Myna V2 (generated for the game)
+MiniMax-M3-VL,FALSE,Fictional — MiniMax-M3-VL (generated for the game)
+Sarvam 60B,FALSE,Fictional — Sarvam 60B (generated for the game)
+V4.2-Flash,FALSE,Fictional — V4.2-Flash (generated for the game)
+Vertex-3.5-Nano-32B,FALSE,Fictional — Vertex-3.5-Nano-32B (generated for the game)
+Robostral Pilot,FALSE,Fictional — Robostral Pilot (generated for the game)
+Pro TTS 2.5,TRUE,Google DeepMind — Gemini 2.5 Pro TTS
+R1-Zero,TRUE,DeepSeek — DeepSeek-R1-Zero
+Neon 3.5,FALSE,Fictional — Neon 3.5 (generated for the game)
+V3,TRUE,DeepSeek — DeepSeek-V3
+Kernel 72B Instruct,FALSE,Fictional — Kernel 72B Instruct (generated for the game)
+Sigma-2-Flash-2B,FALSE,Fictional — Sigma-2-Flash-2B (generated for the game)
+V4.2-Flash-Vision-Lite,FALSE,Fictional — V4.2-Flash-Vision-Lite (generated for the game)
+Halo 2,FALSE,Fictional — Halo 2 (generated for the game)
+TranslateGemma 12B,TRUE,Google DeepMind — TranslateGemma 12B
+MiMo-7B-RL-0530,TRUE,Xiaomi MiMo — MiMo-7B-RL-0530
+LFM2.5-VL-1.6B,TRUE,Liquid AI — LFM2.5-VL-1.6B
+Halo 2B Base,FALSE,Fictional — Halo 2B Base (generated for the game)
+PaliGemma 2 10B,TRUE,Google DeepMind — PaliGemma 2 10B
+6.2 Sol,FALSE,Fictional — 6.2 Sol (generated for the game)
+OlmoEarth-v1-Tiny,TRUE,Allen Institute for AI (AI2) — OlmoEarth-v1-Tiny
+Zephyr-3B-A4B,FALSE,Fictional — Zephyr-3B-A4B (generated for the game)
+Xenon 4,FALSE,Fictional — Xenon 4 (generated for the game)
+3.6-27B,TRUE,Alibaba / Qwen — Qwen3.6-27B
+V4.1-Pro,FALSE,Fictional — V4.1-Pro (generated for the game)
+Kernel 12B Base,FALSE,Fictional — Kernel 12B Base (generated for the game)
+Transcribe 4.1,FALSE,Fictional — Transcribe 4.1 (generated for the game)
+o4-mini-high,TRUE,OpenAI — o4-mini-high
+Grok 3 (Think),TRUE,xAI — Grok 3 (Think)
+Glyph-2B-A2B,FALSE,Fictional — Glyph-2B-A2B (generated for the game)
+Phi-4,TRUE,Microsoft — Phi-4
+Granite-Guardian-4.0-3B,FALSE,Fictional — Granite-Guardian-4.0-3B (generated for the game)
+Nova Premier,TRUE,Amazon — Amazon Nova Premier
+R1-Distill-Qwen-32B,TRUE,DeepSeek — DeepSeek-R1-Distill-Qwen-32B
+Leanstral Code,FALSE,Fictional — Leanstral Code (generated for the game)
+2.5-Coder-3B,TRUE,Alibaba / Qwen — Qwen2.5-Coder-3B
+Rerank 5,FALSE,Fictional — Rerank 5 (generated for the game)
+Command A Vision,TRUE,Cohere / Cohere Labs — Command A Vision
+Ember 32B Preview,FALSE,Fictional — Ember 32B Preview (generated for the game)
+Vesper 5,FALSE,Fictional — Vesper 5 (generated for the game)
+Fable 5.1,TRUE,Anthropic — Claude Fable 5.1
+Delta Think 4.2,FALSE,Fictional — Delta Think 4.2 (generated for the game)
+Live 3.8,TRUE,Google DeepMind — Gemini 3.8 Live
+Glyph-5-Reason-72B,FALSE,Fictional — Glyph-5-Reason-72B (generated for the game)
+Nova Nano,FALSE,Fictional — Nova Nano (generated for the game)
+SynLogic-Mix-4-48B,FALSE,Fictional — SynLogic-Mix-4-48B (generated for the game)
+Nova Lite,TRUE,Amazon — Amazon Nova Lite
+M2,TRUE,MiniMax — MiniMax-M2
+Mythos 5.2,FALSE,Fictional — Mythos 5.2 (generated for the game)
+V4-Flash,TRUE,DeepSeek — DeepSeek-V4-Flash
+Shieldstral,TRUE,Mistral AI — Shieldstral
+Yotta Reason 2,FALSE,Fictional — Yotta Reason 2 (generated for the game)
+grok-4-fast-non-reasoning,TRUE,xAI — grok-4-fast-non-reasoning
+Transcribe 3.5,TRUE,Google DeepMind — Gemini 3.5 Transcribe
+Jade 2B Instruct,FALSE,Fictional — Jade 2B Instruct (generated for the game)
+Seed2.5,FALSE,Fictional — Seed2.5 (generated for the game)
+Granite-4.0-1B,TRUE,IBM — Granite-4.0-1B
+SynLogic-32B,TRUE,MiniMax — SynLogic-32B
+Gemma 3 4B,TRUE,Google DeepMind — Gemma 3 4B
+Pulse Live 3.2,FALSE,Fictional — Pulse Live 3.2 (generated for the game)
+Cipher Think 2.5,FALSE,Fictional — Cipher Think 2.5 (generated for the game)
+Aster 3.2,FALSE,Fictional — Aster 3.2 (generated for the game)
+o3-mini,TRUE,OpenAI — o3-mini
+R1-Distill-Qwen-14B,TRUE,DeepSeek — DeepSeek-R1-Distill-Qwen-14B
+Cohere Transcribe,TRUE,Cohere / Cohere Labs — Cohere Transcribe
+T5Gemma 2 4B-4B,TRUE,Google DeepMind — T5Gemma 2 4B-4B
+o6-pro,FALSE,Fictional — o6-pro (generated for the game)
+Cognistral Small,FALSE,Fictional — Cognistral Small (generated for the game)
+Seed2.1-VL,FALSE,Fictional — Seed2.1-VL (generated for the game)
+3.6-Coder-96B-A8B,FALSE,Fictional — 3.6-Coder-96B-A8B (generated for the game)
+MiMo-V2.6-Distill-Qwen-14B,FALSE,Fictional — MiMo-V2.6-Distill-Qwen-14B (generated for the game)
+3-1.7B,TRUE,Alibaba / Qwen — Qwen3-1.7B
+Granite 4.1 3B,TRUE,IBM — Granite 4.1 3B
+Halo 3B Instruct,FALSE,Fictional — Halo 3B Instruct (generated for the game)
+Granite 3.1 2B,TRUE,IBM — Granite 3.1 2B
+PulseGemma 2B,FALSE,Fictional — PulseGemma 2B (generated for the game)
+3.8-Omni-Flash,TRUE,Alibaba / Qwen — Qwen3.8-Omni-Flash
+NovaCore 32B Instruct,FALSE,Fictional — NovaCore 32B Instruct (generated for the game)
+Kimi-Audio-7B,TRUE,Moonshot AI — Kimi-Audio-7B
+Mistral Small 4.2,FALSE,Fictional — Mistral Small 4.2 (generated for the game)
+o3.5,FALSE,Fictional — o3.5 (generated for the game)
+Nova 2 Canvas,FALSE,Fictional — Nova 2 Canvas (generated for the game)
+Aster Reason 4.1,FALSE,Fictional — Aster Reason 4.1 (generated for the game)
+MiMo-7B-Base,TRUE,Xiaomi MiMo — MiMo-7B-Base
+Omega-12B-A2B,FALSE,Fictional — Omega-12B-A2B (generated for the game)
+Bulbul V4,FALSE,Fictional — Bulbul V4 (generated for the game)
+Nemotron-4-Micro-26B-A4B,FALSE,Fictional — Nemotron-4-Micro-26B-A4B (generated for the game)
+Command B,FALSE,Fictional — Command B (generated for the game)
+Nova 3 Sonic,FALSE,Fictional — Nova 3 Sonic (generated for the game)
+Granite-4.0-H-1B,TRUE,IBM — Granite-4.0-H-1B
+Sigma-3-Pro-12B,FALSE,Fictional — Sigma-3-Pro-12B (generated for the game)
+r1-mini,FALSE,Fictional — r1-mini (generated for the game)
+AgentWorld-35B-A3B,TRUE,Alibaba / Qwen — Qwen-AgentWorld-35B-A3B
+LFM-7B,TRUE,Liquid AI — LFM-7B
+LFM2.5-Reason-1.2B,FALSE,Fictional — LFM2.5-Reason-1.2B (generated for the game)
+Flash 3.7,TRUE,Google DeepMind — Gemini 3.7 Flash
+LFM2.5-1.2B-Thinking,TRUE,Liquid AI — LFM2.5-1.2B-Thinking
+3.8-Next-120B-A10B,FALSE,Fictional — 3.8-Next-120B-A10B (generated for the game)
+5.6 Sol,TRUE,OpenAI — GPT-5.6 Sol
+T5Gemma 2 270M-270M,TRUE,Google DeepMind — T5Gemma 2 270M-270M
+QwQ-32B,TRUE,Alibaba / Qwen — QwQ-32B
+Opus 5.2,FALSE,Fictional — Opus 5.2 (generated for the game)
+o4-mini,TRUE,OpenAI — o4-mini
+Agentstral Medium,FALSE,Fictional — Agentstral Medium (generated for the game)
+Seed Diffusion Preview,TRUE,ByteDance Seed — Seed Diffusion Preview
+Text-01,TRUE,MiniMax — MiniMax-Text-01
+OlmoEarth-v2-Micro,FALSE,Fictional — OlmoEarth-v2-Micro (generated for the game)
+North Small Code,FALSE,Fictional — North Small Code (generated for the game)
+Nova Micro,TRUE,Amazon — Amazon Nova Micro
+Omega Nano 2.5,FALSE,Fictional — Omega Nano 2.5 (generated for the game)
+GLM-5-Air,FALSE,Fictional — GLM-5-Air (generated for the game)
+Ember-1.3B-A3B,FALSE,Fictional — Ember-1.3B-A3B (generated for the game)
+Devstral Nano 1.2,FALSE,Fictional — Devstral Nano 1.2 (generated for the game)
+Halo 5,FALSE,Fictional — Halo 5 (generated for the game)
+Kimi-Linear-48B-A3B-Instruct,TRUE,Moonshot AI — Kimi-Linear-48B-A3B-Instruct
+Flux-24B-A8B,FALSE,Fictional — Flux-24B-A8B (generated for the game)
+Jade 3.2,FALSE,Fictional — Jade 3.2 (generated for the game)
+Nemotron 4 Super,FALSE,Fictional — Nemotron 4 Super (generated for the game)
+Kimi-K2.6,TRUE,Moonshot AI — Kimi-K2.6
+Lumen 5,FALSE,Fictional — Lumen 5 (generated for the game)
+Gemma 2 JPN 2B,TRUE,Google DeepMind — Gemma 2 JPN 2B
+MedGemma 1.5 4B,TRUE,Google DeepMind — MedGemma 1.5 4B
+Aya Expanse 8B,TRUE,Cohere / Cohere Labs — Aya Expanse 8B
+Nacre 4,FALSE,Fictional — Nacre 4 (generated for the game)
+V3.2,TRUE,DeepSeek — DeepSeek-V3.2
+Falcon3 3B,TRUE,Technology Innovation Institute (TII) — Falcon3 3B
+Tensor Pro 2,FALSE,Fictional — Tensor Pro 2 (generated for the game)
+Transcribe Live 3.5,TRUE,Google DeepMind — Gemini 3.5 Transcribe Live
+2.5-Turbo,TRUE,Alibaba / Qwen — Qwen2.5-Turbo
+Command A Reasoning,TRUE,Cohere / Cohere Labs — Command A Reasoning
+Matrix 0.8B Reasoning,FALSE,Fictional — Matrix 0.8B Reasoning (generated for the game)
+Flash 4.0,FALSE,Fictional — Flash 4.0 (generated for the game)
+Cobalt 4.1,FALSE,Fictional — Cobalt 4.1 (generated for the game)
+MiniMax-M2.8,FALSE,Fictional — MiniMax-M2.8 (generated for the game)
+LFM2.5-VL-3B,TRUE,Liquid AI — LFM2.5-VL-3B
+Flash-Lite 4.0,FALSE,Fictional — Flash-Lite 4.0 (generated for the game)
+Vertex 24B Instruct,FALSE,Fictional — Vertex 24B Instruct (generated for the game)
+Sonnet 5,TRUE,Anthropic — Claude Sonnet 5
+LFM2.5-1.2B-JP,TRUE,Liquid AI — LFM2.5-1.2B-JP
+Kimi-Dev-110B,FALSE,Fictional — Kimi-Dev-110B (generated for the game)
+CodeStral Nano,FALSE,Fictional — CodeStral Nano (generated for the game)
+Kepler 4.6,FALSE,Fictional — Kepler 4.6 (generated for the game)
+Delta-48B-A2B,FALSE,Fictional — Delta-48B-A2B (generated for the game)
+EmbeddingGemma 308M,TRUE,Google DeepMind — EmbeddingGemma 308M
+OLMo-2-1124-13B-Instruct,TRUE,Allen Institute for AI (AI2) — OLMo-2-1124-13B-Instruct
+Omega 4.2,FALSE,Fictional — Omega 4.2 (generated for the game)
+V3.2-Exp,TRUE,DeepSeek — DeepSeek-V3.2-Exp
+Command R9B,FALSE,Fictional — Command R9B (generated for the game)
+QVQ-48B-Reason,FALSE,Fictional — QVQ-48B-Reason (generated for the game)
+3-8B,TRUE,Alibaba / Qwen — Qwen3-8B
+3.8-Max,TRUE,Alibaba / Qwen — Qwen3.8-Max
+MiMo-V2.6-Pro-RL,TRUE,Xiaomi MiMo — MiMo-V2.6-Pro-RL
+Lumen VL 4.2,FALSE,Fictional — Lumen VL 4.2 (generated for the game)
+Yotta 4,FALSE,Fictional — Yotta 4 (generated for the game)
+Phi-5-mini-instruct,FALSE,Fictional — Phi-5-mini-instruct (generated for the game)
+Phi-4-mini-instruct,TRUE,Microsoft — Phi-4-mini-instruct
+Live 3.4,FALSE,Fictional — Live 3.4 (generated for the game)
+Glyph Flash 4,FALSE,Fictional — Glyph Flash 4 (generated for the game)
+Falcon-H2-1.8B-Deep,FALSE,Fictional — Falcon-H2-1.8B-Deep (generated for the game)
+North Nano Code,FALSE,Fictional — North Nano Code (generated for the game)
+MiMo-V3-ASR,FALSE,Fictional — MiMo-V3-ASR (generated for the game)
+Flash-Lite 2.0,TRUE,Google DeepMind — Gemini 2.0 Flash-Lite
+Granite Speech 3.3 8B,TRUE,IBM — Granite Speech 3.3 8B
+Nova Sonic,TRUE,Amazon — Amazon Nova Sonic
+Saaras V3,TRUE,Sarvam AI — Saaras V3
+Kimi-K3-Base,FALSE,Fictional — Kimi-K3-Base (generated for the game)
+R2-Distill-Llama-16B,FALSE,Fictional — R2-Distill-Llama-16B (generated for the game)
+Kimi-VL-A3B-Instruct,TRUE,Moonshot AI — Kimi-VL-A3B-Instruct
+Vertex-2B-A2B,FALSE,Fictional — Vertex-2B-A2B (generated for the game)
+MiMo-V2.5-ASR,TRUE,Xiaomi MiMo — MiMo-V2.5-ASR
+BitNet b1.58 2B4T,TRUE,Microsoft — BitNet b1.58 2B4T
+Gemma-APS 7B,TRUE,Google DeepMind — Gemma-APS 7B
+Molmo 2-O 7B,TRUE,Allen Institute for AI (AI2) — Molmo 2-O 7B
+GLM-4.6V-Flash,TRUE,Z.ai — GLM-4.6V-Flash
+OlmoEarth-v1-Large,TRUE,Allen Institute for AI (AI2) — OlmoEarth-v1-Large
+SynLogic-14B,FALSE,Fictional — SynLogic-14B (generated for the game)
+Command A Mini,FALSE,Fictional — Command A Mini (generated for the game)
+LFM2.5-Vector-350M,FALSE,Fictional — LFM2.5-Vector-350M (generated for the game)
+R1-Distill-Llama-70B,TRUE,DeepSeek — DeepSeek-R1-Distill-Llama-70B
+OLMo 2 13B,TRUE,Allen Institute for AI (AI2) — OLMo 2 13B
+QwQ-Max-Preview,TRUE,Alibaba / Qwen — QwQ-Max-Preview
+Kimi-VL-A3B-Thinking,TRUE,Moonshot AI — Kimi-VL-A3B-Thinking
+Opus 4.8,TRUE,Anthropic — Claude Opus 4.8
+3.7-LiveCoder,FALSE,Fictional — 3.7-LiveCoder (generated for the game)
+LFM2.5-Audio-900M,FALSE,Fictional — LFM2.5-Audio-900M (generated for the game)
+Cipher 1.3B Base,FALSE,Fictional — Cipher 1.3B Base (generated for the game)
+LFM2.5-2.6B,TRUE,Liquid AI — LFM2.5-2.6B
+Wave-0.8B-A2B,FALSE,Fictional — Wave-0.8B-A2B (generated for the game)
+Medium 3.1,TRUE,Mistral AI — Mistral Medium 3.1
+Umbra 12B Base,FALSE,Fictional — Umbra 12B Base (generated for the game)
+LFM2.6-2.8B,FALSE,Fictional — LFM2.6-2.8B (generated for the game)
+Nemotron-3-Super-120B-A12B,TRUE,NVIDIA — NVIDIA-Nemotron-3-Super-120B-A12B
+LFM2-8B-A1B,TRUE,Liquid AI — LFM2-8B-A1B
+Boreal 48B Base,FALSE,Fictional — Boreal 48B Base (generated for the game)
+3.8-LiveTranslate,TRUE,Alibaba / Qwen — Qwen3.8-LiveTranslate
+Umbra 48B Reasoning,FALSE,Fictional — Umbra 48B Reasoning (generated for the game)
+Granite-4.0-350M,TRUE,IBM — Granite-4.0-350M
+Nemotron-3-Nano-30B-A3B-NVFP4,TRUE,NVIDIA — NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4
+Flux-2B-A8B,FALSE,Fictional — Flux-2B-A8B (generated for the game)
+Fresco 4,FALSE,Fictional — Fresco 4 (generated for the game)
+GLM-4.5,TRUE,Z.ai — GLM-4.5
+Zephyr Think 2.5,FALSE,Fictional — Zephyr Think 2.5 (generated for the game)
+3.5-9B,TRUE,Alibaba / Qwen — Qwen3.5-9B
+6 Astra,TRUE,OpenAI — GPT-6 Astra
+Nemotron Mini 4B Instruct,TRUE,NVIDIA — Nemotron Mini 4B Instruct
+GLM-6-Preview,FALSE,Fictional — GLM-6-Preview (generated for the game)
+Granite-3.0-8B-Instruct-Accelerator,TRUE,IBM — Granite-3.0-8B-Instruct-Accelerator
+grok-4.20-0309-reasoning,TRUE,xAI — grok-4.20-0309-reasoning
+OlmoEarth-v1-Ultra,FALSE,Fictional — OlmoEarth-v1-Ultra (generated for the game)
+6 Sol,TRUE,OpenAI — GPT-6 Sol
+Gemma 4 42B,FALSE,Fictional — Gemma 4 42B (generated for the game)
+Yotta-4.1-Nano-12B,FALSE,Fictional — Yotta-4.1-Nano-12B (generated for the game)
+oss-safeguard-20b,TRUE,OpenAI — gpt-oss-safeguard-20b
+LFM2-2.6B,TRUE,Liquid AI — LFM2-2.6B
+Prism 4.3,FALSE,Fictional — Prism 4.3 (generated for the game)
+5.7 Terra,FALSE,Fictional — 5.7 Terra (generated for the game)
+Command A+,TRUE,Cohere / Cohere Labs — Command A+
+Jade 72B Instruct,FALSE,Fictional — Jade 72B Instruct (generated for the game)
+Flash 3.8,TRUE,Google DeepMind — Gemini 3.8 Flash
+Coder-360B-A28B-Instruct,FALSE,Fictional — Coder-360B-A28B-Instruct (generated for the game)
+Kimi-Linear-64B-A4B-Instruct,FALSE,Fictional — Kimi-Linear-64B-A4B-Instruct (generated for the game)
+Cipher-1.3B-A4B,FALSE,Fictional — Cipher-1.3B-A4B (generated for the game)
+Llama-3.3-Nemotron-Super-49B-v1.5,TRUE,NVIDIA — Llama-3.3-Nemotron-Super-49B-v1.5
+5.2,TRUE,OpenAI — GPT-5.2
+Robostral Navigate,TRUE,Mistral AI — Robostral Navigate
+Vertex 48B Reasoning,FALSE,Fictional — Vertex 48B Reasoning (generated for the game)
+5 pro,TRUE,OpenAI — GPT-5 pro
+Orbit 4.4,FALSE,Fictional — Orbit 4.4 (generated for the game)
+Fable 5,TRUE,Anthropic — Claude Fable 5
+Seed2.2,FALSE,Fictional — Seed2.2 (generated for the game)
+Matrix-2.5-Pro-24B,FALSE,Fictional — Matrix-2.5-Pro-24B (generated for the game)
+grok-code-fast-1,TRUE,xAI — grok-code-fast-1
+Kimi-K2.7-Code,TRUE,Moonshot AI — Kimi-K2.7-Code
+LFM2.6-900M,FALSE,Fictional — LFM2.6-900M (generated for the game)
+Granite-4.0-H-Small,TRUE,IBM — Granite-4.0-H-Small
+Moonlight-24B-A4B,FALSE,Fictional — Moonlight-24B-A4B (generated for the game)
+Sigma-3.2-Flash-7B,FALSE,Fictional — Sigma-3.2-Flash-7B (generated for the game)
+Flash 2.0,TRUE,Google DeepMind — Gemini 2.0 Flash
+Phi-4-mini-deep-reasoning,FALSE,Fictional — Phi-4-mini-deep-reasoning (generated for the game)
+Flash TTS 3.1,TRUE,Google DeepMind — Gemini 3.1 Flash TTS
+3.5-397B-A17B,TRUE,Alibaba / Qwen — Qwen3.5-397B-A17B
+Nova Pulse,FALSE,Fictional — Nova Pulse (generated for the game)
+3.6-Max-Preview,TRUE,Alibaba / Qwen — Qwen3.6-Max-Preview
+Ember-7B-A3B,FALSE,Fictional — Ember-7B-A3B (generated for the game)
+Mistral Tiny 4.1,FALSE,Fictional — Mistral Tiny 4.1 (generated for the game)
+Granite-3.0-2B-Instruct,TRUE,IBM — Granite-3.0-2B-Instruct
+Devstral Small 2,TRUE,Mistral AI — Devstral Small 2
+Omega 12B Instruct,FALSE,Fictional — Omega 12B Instruct (generated for the game)
+Parable 5,FALSE,Fictional — Parable 5 (generated for the game)
+Granite-4.2-H-500M,FALSE,Fictional — Granite-4.2-H-500M (generated for the game)
+Zenith 4.1,FALSE,Fictional — Zenith 4.1 (generated for the game)
+Haiku 5,FALSE,Fictional — Haiku 5 (generated for the game)
+6.1 Terra,FALSE,Fictional — 6.1 Terra (generated for the game)
+Saga 4.6,FALSE,Fictional — Saga 4.6 (generated for the game)
+Boreal Live 4.1,FALSE,Fictional — Boreal Live 4.1 (generated for the game)
+Nemotron 3 Ultra,TRUE,NVIDIA — Nemotron 3 Ultra
+Falcon3 5B,FALSE,Fictional — Falcon3 5B (generated for the game)
+Phi-5-flash-reasoning,FALSE,Fictional — Phi-5-flash-reasoning (generated for the game)
+r3,FALSE,Fictional — r3 (generated for the game)
+Omega-2.5-Nano-12B,FALSE,Fictional — Omega-2.5-Nano-12B (generated for the game)
+Flash 3.4,FALSE,Fictional — Flash 3.4 (generated for the game)
+oss-120b,TRUE,OpenAI — gpt-oss-120b
+Moonlight-16B-A3B,TRUE,Moonshot AI — Moonlight-16B-A3B
+Jade Code 5,FALSE,Fictional — Jade Code 5 (generated for the game)
+LFM2.5-500M,FALSE,Fictional — LFM2.5-500M (generated for the game)
+Falcon-H2-0.7B,FALSE,Fictional — Falcon-H2-0.7B (generated for the game)
+Command R7B,TRUE,Cohere / Cohere Labs — Command R7B
+oss-safeguard-120b,TRUE,OpenAI — gpt-oss-safeguard-120b
+Etude 3.9,FALSE,Fictional — Etude 3.9 (generated for the game)
+Pro Preview 3,TRUE,Google DeepMind — Gemini 3 Pro Preview
+QwQ-32B-Preview,TRUE,Alibaba / Qwen — QwQ-32B-Preview
+Saba,TRUE,Mistral AI — Mistral Saba
+Tensor Live 4,FALSE,Fictional — Tensor Live 4 (generated for the game)
+Arya,TRUE,Sarvam AI — Sarvam Arya
+Phi-4-reasoning-plus,TRUE,Microsoft — Phi-4-reasoning-plus
+Axiom 3.7,FALSE,Fictional — Axiom 3.7 (generated for the game)
+5.4,TRUE,OpenAI — GPT-5.4
+Audio,TRUE,Sarvam AI — Sarvam Audio
+Sonata 4.5,FALSE,Fictional — Sonata 4.5 (generated for the game)
+o2,FALSE,Fictional — o2 (generated for the game)
+3.7 Sonnet,TRUE,Anthropic — Claude 3.7 Sonnet
+OLMo 2 32B,TRUE,Allen Institute for AI (AI2) — OLMo 2 32B
+GLM-5V-Flash,FALSE,Fictional — GLM-5V-Flash (generated for the game)
+Granite-4.0-H-Micro,TRUE,IBM — Granite-4.0-H-Micro
+Wave 24B Base,FALSE,Fictional — Wave 24B Base (generated for the game)
+Grok 3,TRUE,xAI — Grok 3
+Grok 3 mini,TRUE,xAI — Grok 3 mini
+3.6-Plus,TRUE,Alibaba / Qwen — Qwen3.6-Plus
+Matrix 4.2,FALSE,Fictional — Matrix 4.2 (generated for the game)
+Grok 4.6,TRUE,xAI — Grok 4.6
+Seed2.0-Flash,FALSE,Fictional — Seed2.0-Flash (generated for the game)
+Jade Mini 3.5,FALSE,Fictional — Jade Mini 3.5 (generated for the game)
+MiMo-VL-7B-RL,TRUE,Xiaomi MiMo — MiMo-VL-7B-RL
+Flux 12B Preview,FALSE,Fictional — Flux 12B Preview (generated for the game)
+Vertex-72B-A8B,FALSE,Fictional — Vertex-72B-A8B (generated for the game)
+Umbra 4,FALSE,Fictional — Umbra 4 (generated for the game)
+Devstral Small 1.1,TRUE,Mistral AI — Devstral Small 1.1
+105B,TRUE,Sarvam AI — Sarvam 105B
+OlmoEarth-v1-Base,TRUE,Allen Institute for AI (AI2) — OlmoEarth-v1-Base
+Vertex Think 2,FALSE,Fictional — Vertex Think 2 (generated for the game)
+Magistral Medium,TRUE,Mistral AI — Magistral Medium
+OCR 4,TRUE,Mistral AI — Mistral OCR 4
+Visionstral Small,FALSE,Fictional — Visionstral Small (generated for the game)
+Ember Pro 3.5,FALSE,Fictional — Ember Pro 3.5 (generated for the game)
+Nemotron-Nano-9B-v2,TRUE,NVIDIA — NVIDIA-Nemotron-Nano-9B-v2
+Live Translate 3.5,TRUE,Google DeepMind — Gemini 3.5 Live Translate
+MiniMax-Text-02,FALSE,Fictional — MiniMax-Text-02 (generated for the game)
+5.4 Pro,TRUE,OpenAI — GPT-5.4 Pro
+DolphinGemma,TRUE,Google DeepMind — DolphinGemma
+2.5-VL-72B,TRUE,Alibaba / Qwen — Qwen2.5-VL-72B
+V3.2-Speciale,TRUE,DeepSeek — DeepSeek-V3.2-Speciale
+Aya Expanse 16B,FALSE,Fictional — Aya Expanse 16B (generated for the game)
+Zephyr-5-Live-48B,FALSE,Fictional — Zephyr-5-Live-48B (generated for the game)
+5.6 Sol Pro,TRUE,OpenAI — GPT-5.6 Sol Pro
+Jade-5-VL-3B,FALSE,Fictional — Jade-5-VL-3B (generated for the game)
+Vision 2.1,TRUE,Sarvam AI — Sarvam Vision 2.1
+5.3-Codex,TRUE,OpenAI — GPT-5.3-Codex
+Grok 4.3,TRUE,xAI — Grok 4.3
+Gemma 3 270M,TRUE,Google DeepMind — Gemma 3 270M
+Cantata 5,FALSE,Fictional — Cantata 5 (generated for the game)
+Cipher 72B Preview,FALSE,Fictional — Cipher 72B Preview (generated for the game)
+Vertex Live 3.5,FALSE,Fictional — Vertex Live 3.5 (generated for the game)
+5.6 Nova,FALSE,Fictional — 5.6 Nova (generated for the game)
+3-VL-30B-A3B-Instruct,TRUE,Alibaba / Qwen — Qwen3-VL-30B-A3B-Instruct
+Kimi-Audio-7B-Instruct,TRUE,Moonshot AI — Kimi-Audio-7B-Instruct
+Gemma 4 31B,TRUE,Google DeepMind — Gemma 4 31B
+Llama-3.1-Nemotron-Nano-VL-8B-V1,TRUE,NVIDIA — Llama-3.1-Nemotron-Nano-VL-8B-V1
+Kernel-3-Pro-0.8B,FALSE,Fictional — Kernel-3-Pro-0.8B (generated for the game)
+V3-0324,TRUE,DeepSeek — DeepSeek-V3-0324
+Zephyr Pro 3,FALSE,Fictional — Zephyr Pro 3 (generated for the game)
+Nova Logic,FALSE,Fictional — Nova Logic (generated for the game)
+Flash 3.5,TRUE,Google DeepMind — Gemini 3.5 Flash
+Sonnet 4.7,FALSE,Fictional — Sonnet 4.7 (generated for the game)
+LFM2.5-1.2B-Instruct,TRUE,Liquid AI — LFM2.5-1.2B-Instruct
+Opus 4.5,TRUE,Anthropic — Claude Opus 4.5
+PaliGemma 2 28B,TRUE,Google DeepMind — PaliGemma 2 28B
+Saaras V4,TRUE,Sarvam AI — Saaras V4
+MiMo-7B-SFT,TRUE,Xiaomi MiMo — MiMo-7B-SFT
+3.5-27B,TRUE,Alibaba / Qwen — Qwen3.5-27B
+Phi-4-nano-reasoning,FALSE,Fictional — Phi-4-nano-reasoning (generated for the game)
+Ministral 5B,FALSE,Fictional — Ministral 5B (generated for the game)
+Grok 4.20 Multi-Agent Beta,TRUE,xAI — Grok 4.20 Multi-Agent Beta
+Falcon4 11B,FALSE,Fictional — Falcon4 11B (generated for the game)
+Nemotron-3.5-Spark-36B-A4B,FALSE,Fictional — Nemotron-3.5-Spark-36B-A4B (generated for the game)
+Flux VL 3.2,FALSE,Fictional — Flux VL 3.2 (generated for the game)
+Halo 24B Base,FALSE,Fictional — Halo 24B Base (generated for the game)
+2.5-VL-32B-Instruct,TRUE,Alibaba / Qwen — Qwen2.5-VL-32B-Instruct
+Vertex 3.5,FALSE,Fictional — Vertex 3.5 (generated for the game)
+Ember-32B-A4B,FALSE,Fictional — Ember-32B-A4B (generated for the game)
+Fable 4.9,FALSE,Fictional — Fable 4.9 (generated for the game)
+5,TRUE,OpenAI — GPT-5
+Kernel Flash 3.5,FALSE,Fictional — Kernel Flash 3.5 (generated for the game)
+Neelkanth 12B,FALSE,Fictional — Neelkanth 12B (generated for the game)
+LFM2.5-Embedding-350M,TRUE,Liquid AI — LFM2.5-Embedding-350M
+3.7-Max,TRUE,Alibaba / Qwen — Qwen3.7-Max
+Delta-4.2-VL-24B,FALSE,Fictional — Delta-4.2-VL-24B (generated for the game)
+Quartz-0.8B-A8B,FALSE,Fictional — Quartz-0.8B-A8B (generated for the game)
+Legend 4.8,FALSE,Fictional — Legend 4.8 (generated for the game)
+Opus 4.9,FALSE,Fictional — Opus 4.9 (generated for the game)
+Voxtral Mini,TRUE,Mistral AI — Voxtral Mini
+LFM2-24B-A2B,TRUE,Liquid AI — LFM2-24B-A2B
+Lumen Live 4,FALSE,Fictional — Lumen Live 4 (generated for the game)
+Grok 4.7,TRUE,xAI — Grok 4.7
+Sonicstral Mini,FALSE,Fictional — Sonicstral Mini (generated for the game)
+M1-80k,TRUE,MiniMax — MiniMax-M1-80k
+LFM3-VL-2B,FALSE,Fictional — LFM3-VL-2B (generated for the game)
+Gemma 3n E4B,TRUE,Google DeepMind — Gemma 3n E4B
+Kimi-Linear-48B-A3B-Base,TRUE,Moonshot AI — Kimi-Linear-48B-A3B-Base
+GraphGemma 3B,FALSE,Fictional — GraphGemma 3B (generated for the game)
+Pixtral Mini 2,FALSE,Fictional — Pixtral Mini 2 (generated for the game)
+Seed1.5 / Doubao-1.5-pro,TRUE,ByteDance Seed — Seed1.5 / Doubao-1.5-pro
+5.5 Pro,TRUE,OpenAI — GPT-5.5 Pro
+Moonlight-12B-A2B-Instruct,FALSE,Fictional — Moonlight-12B-A2B-Instruct (generated for the game)
+V4-Mini,FALSE,Fictional — V4-Mini (generated for the game)
+2.5-7B-Instruct-1M,TRUE,Alibaba / Qwen — Qwen2.5-7B-Instruct-1M
+Voxtral Mini TTS,TRUE,Mistral AI — Voxtral Mini TTS
+4.1 mini,TRUE,OpenAI — GPT-4.1 mini
+M1-40k,TRUE,MiniMax — MiniMax-M1-40k
+Granite 3.1 8B,TRUE,IBM — Granite 3.1 8B
+LFM3,FALSE,Fictional — LFM3 (generated for the game)
+Yotta Reason 4.2,FALSE,Fictional — Yotta Reason 4.2 (generated for the game)
+Pioneer 3.2,FALSE,Fictional — Pioneer 3.2 (generated for the game)
+Devstral Small,TRUE,Mistral AI — Devstral Small
+2.5-VL-3B,TRUE,Alibaba / Qwen — Qwen2.5-VL-3B
+MiMo-7B-RL,TRUE,Xiaomi MiMo — MiMo-7B-RL
+StreamGemma 900M,FALSE,Fictional — StreamGemma 900M (generated for the game)
+Falcon-H1R-7B,TRUE,Technology Innovation Institute (TII) — Falcon-H1R-7B
+Nova Reel,TRUE,Amazon — Amazon Nova Reel
+LFM2.5-8B-A1B,TRUE,Liquid AI — LFM2.5-8B-A1B
+Sigma-72B-A8B,FALSE,Fictional — Sigma-72B-A8B (generated for the game)
+Gemma 4 18B-A3B,FALSE,Fictional — Gemma 4 18B-A3B (generated for the game)
+Cipher 3.5,FALSE,Fictional — Cipher 3.5 (generated for the game)
+grok-4.20-multi-agent-0309,TRUE,xAI — grok-4.20-multi-agent-0309
+Halo 24B Preview,FALSE,Fictional — Halo 24B Preview (generated for the game)
+2.5-VL-7B,TRUE,Alibaba / Qwen — Qwen2.5-VL-7B
+Nemotron-3.5-Lightning-30B-A3B-NVFP4,TRUE,NVIDIA — NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4
+Opus 4.6,TRUE,Anthropic — Claude Opus 4.6
+Command A,TRUE,Cohere / Cohere Labs — Command A
+Haiku 5.1,FALSE,Fictional — Haiku 5.1 (generated for the game)
+GLM-5.2-Flash,FALSE,Fictional — GLM-5.2-Flash (generated for the game)
+Granite-4.0-H-Tiny,TRUE,IBM — Granite-4.0-H-Tiny
+3.5-35B-A3B,TRUE,Alibaba / Qwen — Qwen3.5-35B-A3B
+o5-mini,FALSE,Fictional — o5-mini (generated for the game)
